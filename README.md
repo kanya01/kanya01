@@ -38,10 +38,13 @@ i build tools that give power back to the people who make things.
 if you're working on something that democratises access — let's talk.
  
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=kanya01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kanya01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanya01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanya01&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&include_all_commits=true&count_private=true" alt="github stats" />
+</p>
+ 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kanya01&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+</p>
  
 ---
 
