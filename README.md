@@ -39,13 +39,9 @@ if you're working on something that democratises access — let's talk.
  
 ---
 
-<div align="center">
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=kanya01&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/kanya01)
-
-[![streak](https://nirzak-streak-stats.vercel.app/?user=kanya01&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/kanya01)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=kanya01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kanya01&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanya01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
 ---
 
